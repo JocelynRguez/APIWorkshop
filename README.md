@@ -1,2 +1,6 @@
 # APIWorkshop
-This is a fun workshop created for Pomona College's Google igniteCS program with Colony High School.
+Follow the instructions below for this tutorial:
+
+## Instructions
+
+### Task #1
