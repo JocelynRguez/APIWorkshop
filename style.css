@@ -1,0 +1,23 @@
+/*
+	Pre-coded Design
+*/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+	background-color: rgb(163, 198, 255);
+	margin: 0;
+}
+
+#title {
+	margin-top: 50px;
+	text-align: center;
+	font-size: 80px;
+	font-family: 'Poppins', sans-serif;
+}
+
+#instructions {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 30px;
+	margin: 20px 10px;
+}
