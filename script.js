@@ -48,7 +48,17 @@ function changeBackground(){
 	changeColor();
 }
 
+/*
+
+*/
+function searchGiphy(){
+
+
+}
+
+
 $('#circle').on('click', function(){
 	changeBackground();
 });
+
 $(document).ready(getName());
