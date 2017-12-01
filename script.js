@@ -49,11 +49,20 @@ function changeBackground(){
 }
 
 /*
-
+	TODO: Write AJAX request and display GIF on webpage.
 */
 function searchGiphy(){
+	var search = $('#tag').val();
+	$.get('https://api.giphy.com/v1/gifs/random?api_key=dc4868f0b5f54decab30be68d6e80edb&tag=' + search, function(data, status){
+		var url = 'https://giphy.com/embed/' + data['data']['id'];
+		var giphy = $('<iframe>', {
+			src: url,
+					frameborder: 0,
+					id: 'gif'
+		});
+		$('#task2').append(giphy);
 
-
+	})
 }
 
 
