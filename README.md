@@ -11,6 +11,8 @@ You will be writing your code in the `changeBackground()` function.
 
 Some suggestions on how to start:
 - look at JQuery `animate()` documentation: https://www.w3schools.com/jquery/eff_animate.asp
+- consider using `if` and `else` (conditional) statements in your code. You can look at documentation that will explain these concepts: https://www.w3schools.com/js/js_if_else.asp. Or as an available mentor.
+- consider using a variable/s: https://www.w3schools.com/js/js_variables.asp
 
 
 ### Task #2
