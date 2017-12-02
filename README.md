@@ -48,3 +48,5 @@ Once we successfully send our request, we will be able to get the data we want b
 
 
 ### Fun Challenges
+
+Our Fun Challenge #1 will be to change your cursor to an image icon whenever you hover over the forest image. For example, this image can be a snowman. This is mainly a CSS task and you can google CSS cursor to figure out how this works.
