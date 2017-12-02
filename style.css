@@ -32,7 +32,6 @@
 		 -webkit-border-radius: 25px;
 		 -moz-border-radius: 25px;
 		 border-radius: 25px;
-		 /*background: red;*/
 	 }
 
 #circle:hover {
@@ -41,8 +40,4 @@
 
 .search {
 	background: white;
-}
-
-#forest {
-	cursor: url('snowman.png'), auto;
 }
