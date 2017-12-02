@@ -61,10 +61,15 @@ function searchGiphy(){
 					frameborder: 0,
 					id: 'gif'
 		});
+		//append to div
 		$('#task3').append(giphy);
 
 	})
 }
+
+/*
+	Functions to animate circle and get user's name.
+*/
 
 $('#circle').on('click', function(){
 	changeBackground();
