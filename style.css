@@ -6,6 +6,7 @@
 * {
 	background: rgb(163, 198, 255);
 	margin: 0;
+
 }
 
 #title {
@@ -40,4 +41,8 @@
 
 .search {
 	background: white;
+}
+
+#forest {
+	cursor: url('snowman.png'), auto;
 }

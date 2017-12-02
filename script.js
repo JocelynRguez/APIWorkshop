@@ -10,8 +10,9 @@ var purple = 'rgb(176, 118, 224)';
 var green = 'rgb(86, 196, 132)';
 var orange = 'rgb(247, 210, 118)';
 var colors = [red, purple, green, orange];
+
 /*
-	Get's name of user when page first loads.
+	TODO: Get name of user when page first loads.
 */
 function getName(){
 	var person = prompt('Please enter your name:');
@@ -60,11 +61,10 @@ function searchGiphy(){
 					frameborder: 0,
 					id: 'gif'
 		});
-		$('#task2').append(giphy);
+		$('#task3').append(giphy);
 
 	})
 }
-
 
 $('#circle').on('click', function(){
 	changeBackground();
